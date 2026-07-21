@@ -1,6 +1,6 @@
 ## ABOUT ME
-
-* **Location:** Indonesia
+* **Education:** 3rd Year CS Student
+* **Location:** Jakarta, Indonesia 🇮🇩
 * **Email:** [alyhazamy@protonmail.com](mailto:alyhazamy@protonmail.com)
 * **Interests:** Developer tooling, Backend, Practice over theory
 
