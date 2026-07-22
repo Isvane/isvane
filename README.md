@@ -13,10 +13,9 @@
 
 ## STACK
 
-* **Languages:** Rust, Go, Python
-* **Frameworks:** Axum, FastAPI
+* **Languages:** Rust, Go
 * **Databases:** PostgreSQL
-* **Tools:** Docker, UV, Mise, Justfile, GitHub Actions
+* **Env:** Linux (Pop!_OS), Zed, Docker
 
 ## BEYOND CODE
 * **Gaming:** The Witcher 3, Crusader Kings 3, Wuthering Waves
