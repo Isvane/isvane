@@ -10,10 +10,12 @@
     Fast Git hook that catches typos in commit messages using an embedded 106k-word dictionary 🦀
 *   **[fuzzies](https://github.com/Isvane/fuzzies)** ~
     High-performance crate combining FSTs and Levenshtein automata for memory-mapped fuzzy search 🦀
+*   **[dororo](https://github.com/Isvane/dororo)** ~
+    Asynchronous Rust service for production web backend mastery 🦀
 
 ## STACK
 
-* **Languages:** Rust, Go
+* **Languages:** Rust, Go, Java
 * **Databases:** PostgreSQL
 * **Env:** Linux (Pop!_OS), Zed, Docker
 
