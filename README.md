@@ -13,12 +13,21 @@
 *   **[dororo](https://github.com/Isvane/dororo)** ~
     Asynchronous Rust service for production web backend mastery 🦀
 
+## SOME PRs
+
+* **[tower-rs/tower-http#678](https://github.com/tower-rs/tower-http/pull/678)** ~
+  Fixed trailing slash handling in `ServeDir` (breaking change).
+* **[lumen-oss/lux#1663](https://github.com/lumen-oss/lux/pull/1663)** ~
+  Added support for specifying directories in `lx check`.
+* **[rust-lang/log#726](https://github.com/rust-lang/log/pull/726)** ~
+  Fixed typos in compile error messages (kv feature) and documentation for the `log!` macro.
+
 ## STACK
 
-* **Languages:** Rust, Go, Java
+* **Languages:** Rust, Go
 * **Databases:** PostgreSQL
 * **Env:** Linux (Pop!_OS), Zed, Docker
 
 ## BEYOND CODE
 * **Gaming:** The Witcher 3, Crusader Kings 3, Wuthering Waves
-* **Music:** Pink Floyd, Camel, Renaissance
+* **Music:** Pink Floyd, Camel, The Alan Parsons Project
