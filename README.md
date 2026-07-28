@@ -1,6 +1,6 @@
 ## ABOUT ME
 * **Education:** 3rd Year CS Student
-* **Location:** Jakarta, Indonesia 🇮🇩
+* **Location:** Tangsel, Indonesia 🇮🇩
 * **Email:** [alyhazamy@protonmail.com](mailto:alyhazamy@protonmail.com)
 * **Interests:** Developer tooling, Backend, Practice over theory
 
@@ -22,6 +22,10 @@
 * **[lumen-oss/lux#1663](https://github.com/lumen-oss/lux/pull/1663)** ~
   Added support for specifying directories in `lx check`.
 
+## EXPERIMENTS
+* **[koma](https://github.com/Isvane/koma)** ~
+  Experimenting with x86-64 Assembly to make ATOI + ITOA converter & HTTP Server ⚙️
+
 ## STACK
 
 * **Languages:** Rust, Go
@@ -30,4 +34,4 @@
 
 ## BEYOND CODE
 * **Gaming:** The Witcher 3, Crusader Kings 3, Wuthering Waves
-* **Music:** Pink Floyd, Camel, The Alan Parsons Project
+* **Music:** Prog-rock, Emo, Pop-punk
