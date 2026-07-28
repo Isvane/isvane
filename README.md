@@ -21,11 +21,7 @@
   Fixed downstream parser differential risk.
 * **[lumen-oss/lux#1663](https://github.com/lumen-oss/lux/pull/1663)** ~
   Added support for specifying directories in `lx check`.
-
-## EXPERIMENTS
-* **[koma](https://github.com/Isvane/koma)** ~
-  Experimenting with x86-64 Assembly to make ATOI + ITOA converter & HTTP Server ⚙️
-
+  
 ## STACK
 
 * **Languages:** Rust, Go
