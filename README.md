@@ -26,8 +26,9 @@
 
 * **Languages:** Rust, Go
 * **Databases:** PostgreSQL
-* **Env:** Linux (Pop!_OS), Zed, Docker
+* **Tools:** Docker, Git
 
 ## BEYOND CODE
 * **Gaming:** The Witcher 3, Crusader Kings 3, Wuthering Waves
-* **Music:** Prog-rock, Emo, Pop-punk
+* **Music:** Prog-rock, JPop, Pop-punk
+* **Language:** Indonesian, English
