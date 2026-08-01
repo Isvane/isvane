@@ -1,8 +1,8 @@
 ## ABOUT ME
 * **Education:** 3rd Year CS Student
-* **Location:** Tangsel, Indonesia 🇮🇩
+* **Location:** Indonesia 🇮🇩
 * **Email:** [alyhazamy@protonmail.com](mailto:alyhazamy@protonmail.com)
-* **Interests:** Developer tooling, Backend, Practice over theory
+* **Interests:** Developer tooling ✦ Backend ✦ Practice over theory
 
 ## PROJECTS
 
@@ -11,7 +11,7 @@
 *   **[fuzzies](https://github.com/Isvane/fuzzies)** ~
     High-performance crate combining FSTs and Levenshtein automata for memory-mapped fuzzy search 🦀
 *   **[dororo](https://github.com/Isvane/dororo)** ~
-    Asynchronous Rust service for production web backend mastery 🦀
+    Asynchronous Rust service for learning web backend 🦀
 
 ## SOME PRs
 
@@ -24,11 +24,13 @@
   
 ## STACK
 
-* **Languages:** Rust, Go
+* **Languages:** Rust ✦ Go
 * **Databases:** PostgreSQL
-* **Tools:** Docker, Git
+* **Tools:** Docker ✦ Git
+* **Learning:** Assembly ✦ Svelte
 
 ## BEYOND CODE
-* **Gaming:** The Witcher 3, Crusader Kings 3, Wuthering Waves
-* **Music:** Prog-rock, JPop, Pop-punk
-* **Language:** Indonesian, English
+
+* **Gaming:** The Witcher 3 ✦ Crusader Kings III ✦ Wuthering Waves
+* **Anime:** Spice and Wolf ✦ MagiRevo ✦ One Piece
+* **Music:** Prog-Rock ✦ J-Pop ✦ Pop-Punk
