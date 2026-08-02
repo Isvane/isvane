@@ -2,6 +2,7 @@
 * **Education:** 3rd Year CS Student
 * **Location:** Indonesia 🇮🇩
 * **Email:** [alyhazamy@protonmail.com](mailto:alyhazamy@protonmail.com)
+* **Personal Site:** [tsubasa](https://isvane.github.io/tsubasa/)
 * **Interests:** Developer tooling ✦ Backend ✦ Practice over theory
 
 ## PROJECTS
