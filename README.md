@@ -27,9 +27,3 @@
 * **Languages:** Rust ✦ Go
 * **Databases:** PostgreSQL
 * **Tools:** Docker ✦ Git
-* **Learning:** Assembly ✦ Svelte
-
-## BEYOND CODE
-
-* **Gaming:** The Witcher 3 ✦ Crusader Kings III ✦ Wuthering Waves
-* **Music:** Prog-Rock ✦ J-Pop ✦ Pop-Punk
