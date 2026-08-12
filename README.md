@@ -6,14 +6,14 @@
 
 ## PROJECTS
 
-*   **[mamoru](https://github.com/Isvane/mamoru)** ~
-    Fast Git hook that catches typos in commit messages using an embedded 106k-word dictionary 🦀
 *   **[fuzzies](https://github.com/Isvane/fuzzies)** ~
     High-performance crate combining FSTs and Levenshtein automata for memory-mapped fuzzy search 🦀
-*   **[dororo](https://github.com/Isvane/dororo)** ~
+*   **[mamoru](https://github.com/Isvane/mamoru)** ~
+    Fast Git hook that catches typos in commit messages using an embedded 106k-word dictionary 🦀
+*   **[axie](https://github.com/Isvane/axie)** ~
     Asynchronous Rust service for learning web backend 🦀
 
-## SOME PRs
+## OPEN SOURCE
 
 * **[tower-rs/tower-http#678](https://github.com/tower-rs/tower-http/pull/678)** ~
   Fixed trailing slash handling in `ServeDir` (breaking change).
