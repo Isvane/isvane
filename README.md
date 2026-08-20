@@ -2,7 +2,7 @@
 * **Education:** 3rd Year CS Student
 * **Location:** Indonesia 🇮🇩
 * **Email:** [alyhazamy@protonmail.com](mailto:alyhazamy@protonmail.com)
-* **Website:** [phantasia](https://isvane.github.io/phantasia/)
+* **Website:** [phantasia.github.io](https://isvane.github.io/phantasia/)
 * **Interests:** Developer tooling ✦ Backend ✦ Practice over theory
 
 ## PROJECTS
@@ -12,7 +12,7 @@
 *   **[mamoru](https://github.com/Isvane/mamoru)** ~
     Fast Git hook that catches typos in commit messages using an embedded 106k-word dictionary 🦀
 *   **[axie](https://github.com/Isvane/axie)** ~
-    Asynchronous Rust service for learning web backend 🦀
+    Dockerized asynchronous Rust backend with JWT and Argon2 🦀
 
 ## OPEN SOURCE
 
