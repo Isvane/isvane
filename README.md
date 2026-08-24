@@ -12,7 +12,9 @@
 *   **[mamoru](https://github.com/Isvane/mamoru)** ~
     Fast Git hook that catches typos in commit messages using an embedded 106k-word dictionary 🦀
 *   **[axie](https://github.com/Isvane/axie)** ~
-    Dockerized asynchronous Rust backend with JWT and Argon2 🦀
+    Dockerized asynchronous Rust backend with PostgreSQL, JWT and Argon2 🦀
+*   **[fluss](https://github.com/Isvane/fluss)** ~
+    Dockerized Kafka learning repository in Go 🐹
 
 ## OPEN SOURCE
 
