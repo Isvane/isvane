@@ -5,7 +5,7 @@
 * **Website:** [phantasia.github.io](https://isvane.github.io/phantasia/)
 * **Interests:** Developer tooling ✦ Backend ✦ Practice over theory
 
-## PROJECTS
+## WORKING ON
 
 *   **[fuzzies](https://github.com/Isvane/fuzzies)** ~
     High-performance crate combining FSTs and Levenshtein automata for memory-mapped fuzzy search 🦀
@@ -13,10 +13,8 @@
     Fast Git hook that catches typos in commit messages using an embedded 106k-word dictionary 🦀
 *   **[axie](https://github.com/Isvane/axie)** ~
     Dockerized asynchronous Rust backend with PostgreSQL, JWT and Argon2 🦀
-*   **[fluss](https://github.com/Isvane/fluss)** ~
-    Dockerized Kafka learning repository in Go 🐹
 
-## OPEN SOURCE
+## HIGHLIGHTS
 
 * **[tower-rs/tower-http#678](https://github.com/tower-rs/tower-http/pull/678)** ~
   Fixed trailing slash handling in `ServeDir` (breaking change).
@@ -28,7 +26,7 @@
 ## STACK
 
 * **Languages:** Rust ✦ Go
-* **Databases:** PostgreSQL
+* **Databases:** PostgreSQL ✦ Redis
 * **Tools:** Docker ✦ Git
 
 ## BEYOND CODE
