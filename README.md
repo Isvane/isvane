@@ -2,7 +2,6 @@
 * **Education:** 3rd Year CS Student
 * **Location:** Indonesia 🇮🇩
 * **Email:** [alyhazamy@protonmail.com](mailto:alyhazamy@protonmail.com)
-* **Website:** [phantasia.github.io](https://isvane.github.io/phantasia/)
 * **Interests:** Developer tooling ✦ Backend ✦ Practice over theory
 
 ## WORKING ON
@@ -27,7 +26,7 @@
 
 * **Languages:** Rust ✦ Go
 * **Databases:** PostgreSQL ✦ Redis
-* **Tools:** Docker ✦ Git
+* **Tools:** Docker ✦ Git ✦ Kafka
 
 ## BEYOND CODE
 
