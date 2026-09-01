@@ -7,8 +7,8 @@
 ## FEATURED PROJECTS
 
 * **[cubicle](https://github.com/Isvane/cubicle)** `[Active]` ~ Custom RESP key-value store with WAL persistence 🦀
-* **[blush](https://github.com/Isvane/blush)** `[Active]` ~ Custom POSIX shell in C featuring voice feedback using `sherpa-onnx` and miniaudio ©️
-* **[fuzzies](https://github.com/Isvane/fuzzies)** `[Archived]` ~ High-performance crate combining FSTs and Levenshtein automata for memory-mapped fuzzy search 🦀
+* **[blush](https://github.com/Isvane/blush)** `[Active]` ~ Custom POSIX shell in featuring voice feedback using `sherpa-onnx` and miniaudio ©️
+* **[fuzzies](https://github.com/Isvane/fuzzies)** `[Archived]` ~ Fast memory-mapped fuzzy search using FSTs and Levenshtein automata 🦀
 * **[axie](https://github.com/Isvane/axie)** `[Archived]` ~ Dockerized asynchronous Rust backend with PostgreSQL, JWT and Argon2 🦀
 
 ## HIGHLIGHTS
