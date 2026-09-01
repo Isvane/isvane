@@ -4,14 +4,12 @@
 * **Email:** [alyhazamy@protonmail.com](mailto:alyhazamy@protonmail.com)
 * **Interests:** Developer tooling ✦ Backend ✦ Practice over theory
 
-## WORKING ON
+## FEATURED PROJECTS
 
-*   **[fuzzies](https://github.com/Isvane/fuzzies)** ~
-    High-performance crate combining FSTs and Levenshtein automata for memory-mapped fuzzy search 🦀
-*   **[mamoru](https://github.com/Isvane/mamoru)** ~
-    Fast Git hook that catches typos in commit messages using an embedded 106k-word dictionary 🦀
-*   **[axie](https://github.com/Isvane/axie)** ~
-    Dockerized asynchronous Rust backend with PostgreSQL, JWT and Argon2 🦀
+* **[cubicle](https://github.com/Isvane/cubicle)** `[Active]` ~ Custom RESP key-value store with WAL persistence 🦀
+* **[blush](https://github.com/Isvane/blush)** `[Active]` ~ Custom POSIX shell in C featuring voice feedback using `sherpa-onnx` and miniaudio ©️
+* **[fuzzies](https://github.com/Isvane/fuzzies)** `[Archived]` ~ High-performance crate combining FSTs and Levenshtein automata for memory-mapped fuzzy search 🦀
+* **[axie](https://github.com/Isvane/axie)** `[Archived]` ~ Dockerized asynchronous Rust backend with PostgreSQL, JWT and Argon2 🦀
 
 ## HIGHLIGHTS
 
@@ -27,6 +25,7 @@
 * **Languages:** Rust ✦ Go
 * **Databases:** PostgreSQL ✦ Redis
 * **Tools:** Docker ✦ Git ✦ Kafka
+* **Learning:** C ✦ PHP
 
 ## BEYOND CODE
 
