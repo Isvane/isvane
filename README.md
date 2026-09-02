@@ -18,7 +18,7 @@
   
 ### Tech Stack
 
-* **Languages:** Rust - Go
-* **Databases:** PostgreSQL - Redis
-* **Tools:** Docker - Git - Kafka
-* **Learning:** PHP - C
+* **Languages:** Rust, Go
+* **Databases:** PostgreSQL, Redis
+* **Tools:** Docker, Git, Kafka
+* **Learning:** PHP, C
