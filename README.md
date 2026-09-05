@@ -1,9 +1,15 @@
-### Overview
+# Hey, I'm Isvane 🦦
 
-* **Name**: Haiqal / Isvane
-* **Education:** 3rd Year CS Student
-* **Location:** Indonesia 🇮🇩
-* **Email:** [alyhazamy@protonmail.com](mailto:alyhazamy@protonmail.com)
+3rd-year CS major. I mostly mess around with Rust and Go.
+
+I like building backend stuff, writing async code, and opening PRs when I run into bugs in tools I'm using.
+
+---
+
+### Featured Project
+
+* **[axie](https://github.com/Isvane/axie)** `[Active]` ~ Dockerized asynchronous Rust backend with PostgreSQL, JWT and Argon2 🦀
+* **[fuzzies](https://github.com/Isvane/fuzzies)** `[Archived]` ~ Fast memory-mapped fuzzy search using FSTs and Levenshtein automata 🦀
 
 ---
 
@@ -21,4 +27,3 @@
 * **Languages:** Rust, Go
 * **Databases:** PostgreSQL, Redis
 * **Tools:** Docker, Git, Kafka
-* **Learning:** PHP, C
