@@ -24,6 +24,6 @@ I like building backend stuff, writing async code, and opening PRs when I run in
   
 ### Tech Stack
 
-* **Languages:** Rust, Go
+* **Languages:** Rust, Go, PHP
 * **Databases:** PostgreSQL, Redis
 * **Tools:** Docker, Git, Kafka
