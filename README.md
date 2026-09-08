@@ -1,8 +1,8 @@
-# Hey, I'm Isvane 🦦
+# Hey, I'm Isvane 🦇
 
-3rd-year CS major. I mostly mess around with Rust and Go.
+3rd-year CS major. I mostly mess around with Rust, Go, and lately some PHP too.
 
-I like building backend stuff, writing async code, and opening PRs when I run into bugs in tools I'm using.
+I like building backend stuff, writing async code, and doing whatever crossed my mind no matter how random.
 
 ---
 
