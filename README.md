@@ -1,4 +1,4 @@
-![](https://pixel-profile.vercel.app/api/github-stats?username=Isvane&theme=road_trip)
+![](https://pixel-profile.vercel.app/api/github-stats?username=Isvane&theme=summer&hide=stars,rank)
 
 ---
 
