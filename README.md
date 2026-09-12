@@ -1,7 +1,3 @@
-![](https://pixel-profile.vercel.app/api/github-stats?username=Isvane&theme=summer&hide=stars,rank)
-
----
-
 ### Featured Project
 
 * **[axie](https://github.com/Isvane/axie)** `[Active]` ~ Dockerized asynchronous Rust backend with PostgreSQL, JWT and Argon2 🦀
