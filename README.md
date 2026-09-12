@@ -1,8 +1,4 @@
-# Hey, I'm Isvane 🦇
-
-3rd-year CS major. I mostly mess around with Rust, Go, and lately some PHP too.
-
-I like building backend stuff, writing async code, and doing whatever crossed my mind no matter how random.
+![](https://pixel-profile.vercel.app/api/github-stats?username=Isvane&theme=road_trip)
 
 ---
 
