@@ -1,6 +1,5 @@
 ### About Me
 
-* **Name:** Haiqal Aly
 * **Grade:** 5th Semester Computer Science
 * **Interest:** Programming, Music and Video Games
 
