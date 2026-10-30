@@ -5,12 +5,12 @@
 
 ### Featured Project
 
-* **[axie](https://github.com/Isvane/axie)** `[Active]` ~ Dockerized asynchronous Rust backend with PostgreSQL, JWT and Argon2 🦀
-* **[fuzzies](https://github.com/Isvane/fuzzies)** `[Archived]` ~ Fast memory-mapped fuzzy search using FSTs and Levenshtein automata 🦀
+* **[axie](https://github.com/Isvane/axie)** ~ Dockerized asynchronous Rust backend with PostgreSQL, JWT and Argon2 🦀
+* **[fuzzies](https://github.com/Isvane/fuzzies)** ~ Fast memory-mapped fuzzy search using FSTs and Levenshtein automata 🦀
 
 ---
 
-### Open Source Contributions
+### Few OSS Contributions
 
 * **[tower-rs/tower-http #678](https://github.com/tower-rs/tower-http/pull/678)** — Resolved trailing slash routing behavior in `ServeDir` *(breaking change)*
 * **[hyperium/http #842](https://github.com/hyperium/http/pull/842)** — Fixed potential downstream parser differential risks
