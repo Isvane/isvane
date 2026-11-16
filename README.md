@@ -1,12 +1,13 @@
 ### About Me
 
-* **Grade:** 5th Semester Computer Science
+* **Grade:** 5th Semester Computer Science 🇮🇩
 * **Interest:** Programming, Music and Video Games
+* **Status:** Hit a bit of a wall lately, so I'm taking things slow right now. Chilling and listening to The Marías and Clairo on repeat.
 
 ### Featured Project
 
-* **[axie](https://github.com/Isvane/axie)** ~ Dockerized asynchronous Rust backend with PostgreSQL, JWT and Argon2 🦀
-* **[fuzzies](https://github.com/Isvane/fuzzies)** ~ Fast memory-mapped fuzzy search using FSTs and Levenshtein automata 🦀
+- **[fuzzies](https://github.com/Isvane/fuzzies)** — Memory-mapped FST spellchecker and fuzzy search library in Rust (with Node.js bindings) 🦀
+- **[axie](https://github.com/Isvane/axie)** — Async Rust backend built with Axum, PostgreSQL, Docker, Casbin RBAC, and Argon2 auth 🦀
 
 ---
 
