@@ -2,7 +2,6 @@
 
 * **Grade:** 5th Semester Computer Science 🇮🇩
 * **Interest:** Programming, Music and Video Games
-* **Status:** Hit a bit of a wall lately, so I'm taking things slow right now. Chilling and listening to The Marías and Clairo on repeat.
 
 ### Featured Project
 
