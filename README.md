@@ -2,6 +2,7 @@
 
 * **Grade:** 5th Semester Computer Science 🇮🇩
 * **Interest:** Programming, Music and Video Games
+* **Status:** Looking for internship
 
 ### Featured Project
 
