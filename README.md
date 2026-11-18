@@ -1,8 +1,9 @@
 ### About Me
 
 * **Grade:** 5th Semester Computer Science 🇮🇩
-* **Interest:** Programming, Music and Video Games
-* **Status:** Looking for internship
+* **Interests:** Programming, Music and Video Games
+* **Status:** Looking for Internship
+* **Weapon:** i5-10300H
 
 ### Featured Project
 
@@ -11,7 +12,7 @@
 
 ---
 
-### Few OSS Contributions
+### Selected OSS Contributions
 
 * **[tower-rs/tower-http #678](https://github.com/tower-rs/tower-http/pull/678)** — Resolved trailing slash routing behavior in `ServeDir` *(breaking change)*
 * **[hyperium/http #842](https://github.com/hyperium/http/pull/842)** — Fixed potential downstream parser differential risks
