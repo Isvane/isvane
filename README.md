@@ -2,8 +2,7 @@
 
 * **Grade:** 5th Semester Computer Science 🇮🇩
 * **Interests:** Programming, Music and Video Games
-* **Status:** Looking for Internship
-* **Weapon:** Linux, i5-10300H, 16GB DDR4
+* **Status:** Looking for Internship 🤍
 
 ### Featured Project
 
@@ -23,6 +22,6 @@
   
 ### Tech Stack
 
-* **Languages:** Rust, Go, PHP
+* **Languages:** Rust, Go
 * **Databases:** PostgreSQL, Redis
 * **Tools:** Docker, Git, Kafka
