@@ -22,14 +22,6 @@
   
 ### Tech Stack
 
-* **Languages:** Rust, Go
+* **Languages:** Rust, Go, PHP
 * **Databases:** PostgreSQL, Redis
 * **Tools:** Docker, Git, Kafka
-
----
-
-### Stats
-
-![Hazamy stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isvane&theme=blueberry)  
-![Commits time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Isvane&theme=blueberry&utcOffset=7)
-![Repo lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isvane&theme=blueberry)
